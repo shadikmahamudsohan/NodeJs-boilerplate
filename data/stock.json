@@ -1,0 +1,98 @@
+[
+    {
+        "productId": "633476cce0259f4febbfc43a",
+        "name": "Fresh Chinigura Rice",
+        "description": "Fresh Chinigura Rice. Fresh and Clean, Vacuum Packed. Fresh Chinigura Rice can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
+        "imageURLs": [
+            "https://chaldn.com/_mpimage/fresh-chinigura-rice-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D84466&q=low&v=1&m=400&webp=1"
+        ],
+        "unit": "kg",
+        "price": "357",
+        "category": "Rice",
+        "brand": {
+            "name": "Fresh",
+            "id": "63386c69c6a45b079cd8c391"
+        },
+        "store": {
+            "name": "chattogram",
+            "id": "633412b419894112041a9018"
+        },
+        "suppliedBy": {
+            "name": "rasel ahmed",
+            "id": "63341cd73d8c200adc31b6bd"
+        },
+        "sellCount": 17
+    },
+    {
+        "productId": "633476cce0259f4febbfc43b",
+        "name": "ACI Pure Miniket Rice Premium",
+        "description": "ACI Pure Miniket Rice Premium. Fresh and Clean, Vacuum Packed. ACI Pure Miniket Rice Premium can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
+        "imageURLs": [
+            "https://chaldn.com/_mpimage/aci-pure-miniket-rice-premium-10-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48063&q=best&v=1&m=400&webp=1"
+        ],
+        "unit": "kg",
+        "price": "257",
+        "category": "Rice",
+        "brand": {
+            "name": "ACI",
+            "id": "633b0a816e68c31a140520fb"
+        },
+        "store": {
+            "name": "chattogram",
+            "id": "633412b419894112041a9018"
+        },
+        "suppliedBy": {
+            "name": "sagor biswas",
+            "id": "63347a1f92cc9521ec42370d"
+        },
+        "sellCount": 103
+    },
+    {
+        "productId": "633476cce0259f4febbfc43c",
+        "name": "Fresh Fortified Soyabean Oil - 5ltr",
+        "description": "Fresh Fortified Soyabean Oil follows 3 steps of refining process-Perfect Degumming & Neutralization, Balanced De-colorization and Five steps Deodorization to ensure right ratio of Omega 3 & 6 and intact Beta-carotene in Soyabean Oil. Fresh soyabean oil contain vitamin A. Its fresh and healthy.",
+        "imageURLs": [
+            "https://chaldn.com/_mpimage/fresh-fortified-soyabean-oil-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D93160&q=best&v=1&m=400&webp=1"
+        ],
+        "unit": "litre",
+        "price": "157",
+        "category": "Oil",
+        "brand": {
+            "name": "Fresh",
+            "id": "633b0a816e68c31a140520fc"
+        },
+        "store": {
+            "name": "chattogram",
+            "id": "633412b419894112041a9018"
+        },
+        "suppliedBy": {
+            "name": "rasel ahmed",
+            "id": "63341cd73d8c200adc31b6bd"
+        },
+        "sellCount": 20
+    },
+    {
+        "productId": "633476cce0259f4febbfc43d",
+        "name": "Rupchanda Fortified Soyabean Oil - 5ltr",
+        "description": "First Vitamin A fortified Soyabean Oil. Increases immunity. Strengthens bone & teeth.",
+        "imageURLs": [
+            "https://chaldn.com/_mpimage/rupchanda-fortified-soyabean-oil-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D92500&q=best&v=1&m=400&webp=1"
+        ],
+        "unit": "litre",
+        "price": "450",
+        "category": "Oil",
+        "brand": {
+            "name": "Rupchanda",
+            "id": "633b0a816e68c31a140520fd"
+        },
+        "store": {
+            "name": "chattogram",
+            "id": "633412b419894112041a9018"
+        },
+        "suppliedBy": {
+            "name": "anisul islam",
+            "id": "63347a6e92cc9521ec423711"
+        },
+        "sellCount": 50
+    }
+]
